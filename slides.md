@@ -1,6 +1,6 @@
-## Yang-Lee Edge singulariy
+## Yang-Lee Edge singularity
 
-### Robs Fest, 2026
+### Rob's Fest, 2026
 
 #### Vladi Skokov (NCSU)
 
