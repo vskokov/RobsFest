@@ -1,4 +1,8 @@
-## Yang-Lee Edge singularities, Lee-Yang Zeroes, Lattice results
+## Yang-Lee Edge singulariy
+
+### Robs Fest, 2026
+
+#### Vladi Skokov (NCSU)
 
 ---
 
@@ -31,21 +35,15 @@
 
 ## Rob's talk
 
-<img src="img/robspics/robstalk2.png" width="60%">
-
----
-
- <!-- .slide: data-transition="convex" -->
-
-## Rob's talk
-
 <img src="img/robspics/robstalk1.png" width="50%">
 
 <div class="medmath">
 
-"... after _that_ talk, what I'm about to say shouldn't sound crazy. I mean, you just sat through a talk about extending the phase diagram
+Approximate quote:
+
+"... after _the previous_ talk, what I'm about to say shouldn't sound crazy. I mean, you just sat through a talk about extending the phase diagram
 into the whole complex chemical potential plane. I just want to take $\mu$ purely imaginary to mimic $A_0$.
-That's not crazy, right? Yeah? I'm practically doing normal physics... "
+That's not crazy, right? I'm practically doing normal physics... "
 
 </div>
 
@@ -60,7 +58,7 @@ Sixteen years ago I didn't know how to take this — compliment?! or insult!?
 <div class="columns">
   <div class="column">
 
-Since then, I've spent Christmases and New Years with Rob and his family, stayed at his house numerous times, bought a car from him, written about 23 papers together, and had plenty of arguments—often with expletives. And whenever life got hard, Rob was the first to call and invite me to stay. Through it all, I learned: Rob deeply cares about people. He is compassionate and kind to his core.
+Since then, I've spent Christmases and New Years with Rob and his family, stayed at his house numerous times, bought a car from him, written about 23 papers together, and had plenty of arguments—often with expletives. And whenever my life got hard, Rob was the first to call and invite me to stay at his place. Through it all, I learned: Rob deeply cares about people. He is compassionate and kind to his core.
 
 Today I would take this as a compliment.
 
@@ -76,9 +74,25 @@ Today I would take this as a compliment.
 
  <!-- .slide: data-transition="convex" -->
 
-## Rob's actual BD
+## Rob's actual 70th BD
 
 <img src="img/robspics/ROBSBD.jpg" width="70%">
+
+---
+
+ <!-- .slide: data-transition="convex" -->
+
+From my experience workign with Rob:
+
+- If something goes wrong in a calculation, Rob takes the blame.
+- If it works out, the credit goes elsewhere — <br> "it was all Larry," <br> "it was all Eric," <br> "it was all Yoshimasa," <br> "it was all Fabian."
+- A genuinely humble person who promotes his collaborators and young people, <br> never himself.
+
+---
+
+ <!-- .slide: data-transition="convex" -->
+
+**Thank you, Rob, for your kindness, your support, and for making the research so much fun!**
 
 ---
 
@@ -117,12 +131,12 @@ Above $T_c$:
 
 - To set up the stage, introduce notation and relevant concepts, best to consider Landau model
 
-$$ F = \int d^{d} x \left( \frac{1}{2} {\color{red} t} \phi^2 + \frac{1}{4} \phi^4 - {\color{blue} h} \phi \right) $$
+$$ F = \int d^{d} x \left( \frac{1}{2} {\color{red} t} \phi^2 + \frac{1}{4} \phi^4 - {\color{LightBlue} h} \phi \right) $$
 
 E.g.:
 
-- near chiral limit: ${\color{red} t} \propto T-T_c + \kappa \mu^2$, ${\color{blue} h}\propto m_{u,d}$
-- near CP: ${\color{red}t},{\color{blue}h} \propto \alpha_{t,h}(T-T_c) + \beta_{t,h} (\mu-\mu_c)$
+- near chiral limit: ${\color{red} t} \propto T-T_c + \kappa \mu^2$, ${\color{LightBlue} h}\propto m_{u,d}$
+- near CP: ${\color{red}t},{\color{LightBlue}h} \propto \alpha_{t,h}(T-T_c) + \beta_{t,h} (\mu-\mu_c)$
 
 ---
 
@@ -444,9 +458,6 @@ M. Stephanov, hep-lat/0603014
 
 <img src="img/YLEtoRW.png" width=50% >
 
-- Roberge-Weiss critical point is at purely imaginary chemical potential
-- Direct access in lattice QCD; provides a check on methods
-
 ---
 
 <!-- .slide: data-transition="convex" -->
@@ -538,27 +549,6 @@ D. Clarke et. al., 2405.10196
 
 <!-- .slide: data-transition="convex" -->
 
-## YLE trajectory: LQCD vs DSE
-
-<span class="fragment">
- <img src="img/qcdtraj.png"  width="40%">
-</span>
-<span class="fragment">
-<img src="img/YLEtraj.jpg"  width="44.5%">
-</span>
-
-<div class="cite">
-Lattice:  Clarke et al, 2405.10196
-</br>
-DSE: Z.-Y. Wan, Y. Lu, F. Gao, and Y.-X. Liu, 2504.12964
- </div>
-
-Quantitatively the YLE trajectories are very different
-
----
-
-<!-- .slide: data-transition="convex" -->
-
 ## Conclusions
 
 - Encouraging results
@@ -611,7 +601,7 @@ Input:
 </div>
 
 <div class="cite">
- Data from: S. Borsanyi et al. 2102.06660 \& private communications with S. Borsanyi
+ Data from: S. Borsanyi et al. 2102.06660 & private communications with S. Borsanyi
 </div>
 
 ---
@@ -619,6 +609,27 @@ Input:
 <!-- .slide: data-transition="convex" -->
 
 # Backup
+
+---
+
+<!-- .slide: data-transition="convex" -->
+
+## YLE trajectory: LQCD vs DSE
+
+<span class="fragment">
+ <img src="img/qcdtraj.png"  width="40%">
+</span>
+<span class="fragment">
+<img src="img/YLEtraj.jpg"  width="44.5%">
+</span>
+
+<div class="cite">
+Lattice:  Clarke et al, 2405.10196
+</br>
+DSE: Z.-Y. Wan, Y. Lu, F. Gao, and Y.-X. Liu, 2504.12964
+ </div>
+
+Quantitatively the YLE trajectories are very different
 
 ---
 
